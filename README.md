@@ -1,6 +1,6 @@
 # Exp 4 Elbow Method using K-Means Clustering
 
-**Date:**
+**Date:**08-08-2026
 
 ## AIM:
 To implement the Elbow Method using K-Means Clustering in Python to determine the optimal number of clusters for customers based on their Annual Income and Spending Score by plotting WCSS against different values of K.
